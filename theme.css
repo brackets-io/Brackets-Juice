@@ -74,15 +74,15 @@
 }
 /* e.g. @font-face */
 .cm-meta {
-  color: #1ddd00;
+  color: #66d22e;
 }
 /* e.g. .box */
 .cm-qualifier {
-  color: #1ddd00;
+  color: #66d22e;
 }
 /* e.g. class="" id="" */
 .cm-attribute {
-  color: #1ddd00;
+  color: #66d22e;
 }
 /* highlighted selection */
 .cm-matchhighlight {
