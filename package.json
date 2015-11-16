@@ -1,7 +1,7 @@
 {
     "title": "Monokai Dark Juice",
     "name": "juice-theme",
-    "description": "A brackets theme focused on readability.",
+    "description": "A dark brackets theme focused on readability, based on Dark Soda, Stripper and Monokai color schemes.",
     "version": "0.1.1",
     "author": "Jacob H <jacobsteen@gmail.com>",
     "homepage": "https://github.com/uniphonic/Brackets-Juice",
