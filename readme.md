@@ -1,5 +1,5 @@
 # Brackets-Juice
-UI Theme for Brackets. Useses modified version of [Monokai Dark Soda](https://github.com/rainje/Monokai-Dark-Soda) for syntax highlighting. For this to be seen properly you must install https://github.com/notasz/brackets-uitheming
+UI Theme for Brackets. Useses modified version of [Monokai Dark Soda](https://github.com/rainje/Monokai-Dark-Soda) for syntax highlighting, and the bright green in some of the code coloring has been muted a bit. For this to be seen properly you must install https://github.com/notasz/brackets-uitheming
 
 Screenshot
 ===============
