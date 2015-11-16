@@ -74,15 +74,15 @@
 }
 /* e.g. @font-face */
 .cm-meta {
-  color: #66d22e;
+  color: #66dd2e;
 }
 /* e.g. .box */
 .cm-qualifier {
-  color: #66d22e;
+  color: #66dd2e;
 }
 /* e.g. class="" id="" */
 .cm-attribute {
-  color: #66d22e;
+  color: #66dd2e;
 }
 /* highlighted selection */
 .cm-matchhighlight {
