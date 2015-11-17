@@ -1,5 +1,5 @@
 # Brackets-Juice
-A dark UI THEME for Brackets focused on readability, based on Dark Soda, Stripper and Monokai color schemes. Useses modified version of [Monokai Dark Soda](https://github.com/rainje/Monokai-Dark-Soda) for syntax highlighting, with the bright green muted a bit more. For this to be seen properly you must install https://github.com/notasz/brackets-uitheming
+A dark UI THEME for [Brackets](http://brackets.io/) focused on readability, based on Dark Soda, Stripper and Monokai color schemes. Useses modified version of [Monokai Dark Soda](https://github.com/rainje/Monokai-Dark-Soda) for syntax highlighting, with the bright green muted a bit more. For this to be seen properly you must install https://github.com/notasz/brackets-uitheming
 
 Extension is available directly in Brackets via the [Brackets extension registry](https://brackets-registry.aboutweb.com/).
 
