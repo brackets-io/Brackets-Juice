@@ -129,7 +129,7 @@
   border-left: 1px solid #f8f8f8 !important;
 }
 .CodeMirror-gutters {
-  background-color: #242424;
+  background-color: #1d1d1d;
   border-right: none;
 }
 .CodeMirror .CodeMirror-selected {
