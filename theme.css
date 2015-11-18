@@ -357,7 +357,7 @@ ins.jstree-icon {
   text-decoration: none;
 }
 .CodeMirror .CodeMirror-selected {
-  background: #21abd8 !important;
+  background: #0099ff !important;
 }
 #working-set-list-container > div:last-child ul {
   padding-bottom: 10px;
