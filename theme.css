@@ -134,7 +134,7 @@
 }
 .CodeMirror .CodeMirror-selected {
   background: #3d3d3d;
-  opacity: .23;
+  opacity: .43;
 }
 .CodeMirror-focused .CodeMirror-selected {
   background-color: #ffe69d;
